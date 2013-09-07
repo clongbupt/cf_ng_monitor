@@ -164,13 +164,3 @@ It is the main file of the web service in this project. In this file, mostly it 
 	5. Handle the '/logs' 'log' request, it will open the log file and read the content, then respond to the browser, and more than that, it supports pagination. 
 
 	6. For some components in cloud foundry ng, we cloud not get the varz info no more, so we add new functions to get those info. Actually, we use DataMapper to access the database to get right data.
-
-## Other resources
-
-There is still an running demo on a server. The info to access it is just below:
-
-Address : 9.115.210.183
-Port: 8071
-
-Username: admin
-Password: passw0rd
