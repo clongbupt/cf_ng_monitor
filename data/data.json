@@ -1,0 +1,116 @@
+{
+  "items": {
+    "http://10.0.0.26:8080/varz": {
+      "type": "Router",
+      "index": 0,
+      "host": "10.0.0.26:8080",
+      "credentials": [
+        "0dfg0dfg0dfg",
+        "time4fun"
+      ],
+      "config": {
+        "Status": {
+          "Port": 8080,
+          "User": "0dfg0dfg0dfg",
+          "Pass": "time4fun"
+        },
+        "Nats": {
+          "Host": "9.115.210.219",
+          "Port": 4222,
+          "User": "nats",
+          "Pass": "time4fun"
+        },
+        "Logging": {
+          "File": "/var/vcap/sys/log/gorouter/gorouter.log",
+          "Syslog": "vcap.gorouter",
+          "Level": "info"
+        },
+        "Port": 80,
+        "Index": 0,
+        "Pidfile": "/var/vcap/sys/run/gorouter/gorouter.pid",
+        "GoMaxProcs": 8,
+        "TraceKey": "22",
+        "AccessLog": "/var/vcap/sys/log/gorouter/access.log",
+        "PublishStartMessageIntervalInSeconds": 30,
+        "PruneStaleDropletsIntervalInSeconds": 30,
+        "DropletStaleThresholdInSeconds": 120,
+        "PublishActiveAppsIntervalInSeconds": 0,
+        "StartResponseDelayIntervalInSeconds": 5,
+        "PruneStaleDropletsInterval": 30000000000,
+        "DropletStaleThreshold": 120000000000,
+        "PublishActiveAppsInterval": 0,
+        "StartResponseDelayInterval": 5000000000,
+        "Ip": "10.0.0.26"
+      },
+      "uuid": "0-3ac0eae240a19c8bead37cedf9a798b1",
+      "start": "2013-09-04 08:34:35 +0000",
+      "uptime": "0d:1h:11m:59s"
+    },
+    "http://10.0.0.96:50761/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-9fef6fd2064a8f2ebdc99647afdcdbcd",
+      "host": "10.0.0.96:50761",
+      "credentials": [
+        "76b13aaae40951097ac0f88dc75f54b9",
+        "77e3d8701cc427441ac874de756a186d"
+      ],
+      "start": "2013-09-04 08:33:11 +0000",
+      "uptime": "0d:1h:13m:24s"
+    },
+    "http://10.0.0.17:47580/varz": {
+      "type": "CloudController",
+      "index": 0,
+      "uuid": "0-b916d7bce01736d082f8b92425cf6ed0",
+      "host": "10.0.0.17:47580",
+      "credentials": [
+        "f5f1467523f0a986f8c333211459f7cc",
+        "837a11143aa5cb358d2064c4f2676c81"
+      ],
+      "start": "2013-09-04 08:31:53 +0000",
+      "uptime": "0d:1h:14m:43s"
+    },
+    "http://10.0.0.123:56980/varz": {
+      "type": "MyaaS-Node",
+      "index": 0,
+      "uuid": "0-c8bdf8b062f429d518eb0ed42964635c",
+      "host": "10.0.0.123:56980",
+      "credentials": [
+        "b4ecefb5a0a454b68d849a310abf9457",
+        "f911c414cc5570cc5240d461c8f00c68"
+      ],
+      "start": "2013-09-04 08:36:56 +0000",
+      "uptime": "0d:1h:9m:39s"
+    },
+    "http://10.0.0.27:41101/varz": {
+      "type": "HealthManager",
+      "index": 0,
+      "uuid": "0-9b622ba8054485233032f6ec0961cdab",
+      "host": "10.0.0.27:41101",
+      "credentials": [
+        "108f62ebc5d126a1331eee37295d919e",
+        "eeffb0141ca7bb515d0b088f0e068513"
+      ],
+      "start": "2013-09-04 08:33:40 +0000",
+      "uptime": "0d:1h:12m:54s"
+    },
+    "http://10.0.0.31:8080/varz": {
+      "type": "uaa",
+      "host": "10.0.0.31:8080",
+      "index": 0,
+      "uuid": "0-0db50f53-c296-45d4-b266-7c2ee59fa014",
+      "credentials": [
+        "7721-11617-16482-29092",
+        "28291-29033-15437-7217"
+      ]
+    }
+  },
+  "notified": {
+    "10.0.0.32:4222": {
+      "type": "NATS",
+      "uri": "10.0.0.32:4222",
+      "count": 8
+    }
+  },
+  "connected": true
+}

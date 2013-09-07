@@ -1,0 +1,395 @@
+{
+  "items": {
+    "http://10.0.0.119:34803/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-64a79b4a165c604e75346257189452f1",
+      "host": "10.0.0.119:34803",
+      "credentials": [
+        "42e08db5d558d847d3be922ac29ed8f8",
+        "a24f8d6b94cf80ee61829cd012bfa321"
+      ],
+      "start": "2013-09-02 02:04:36 +0000",
+      "uptime": "0d:2h:14m:58s"
+    },
+    "http://10.0.0.134:8080/varz": {
+      "type": "login",
+      "host": "10.0.0.134:8080",
+      "index": 0,
+      "uuid": "0-7fcb79f6-b299-40fa-b0aa-b163245e3fa4",
+      "credentials": [
+        "435-16199-29369-27987",
+        "618-12045-13007-17520"
+      ]
+    },
+    "http://10.0.0.105:42295/varz": {
+      "type": "VBlobaaS-Node",
+      "index": 0,
+      "uuid": "0-49b47fac6680b745e19416043be17509",
+      "host": "10.0.0.105:42295",
+      "credentials": [
+        "e015599c9cae55394ed117aa0d25ff08",
+        "1fccd413aac8243a640c377f81df9e41"
+      ],
+      "start": "2013-07-18 07:49:55 +0000",
+      "uptime": "45d:22h:15m:16s"
+    },
+    "http://10.0.0.107:39394/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-f000e43dc2dfe9298033e4daa5cc8629",
+      "host": "10.0.0.107:39394",
+      "credentials": [
+        "7909352e313d433b23d79d45a3c7d530",
+        "23d8f8d6430f273521db6b14ff9602c8"
+      ],
+      "start": "2013-09-02 02:01:55 +0000",
+      "uptime": "0d:2h:18m:43s"
+    },
+    "http://10.0.0.154:43015/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-fd0bf40ccec0928cbceaf4a5befcd095",
+      "host": "10.0.0.154:43015",
+      "credentials": [
+        "447ccd776683b1d849f120603a5137e8",
+        "14d74b0227de965ada8b209509c9fceb"
+      ],
+      "start": "2013-09-02 02:03:08 +0000",
+      "uptime": "0d:2h:17m:27s"
+    },
+    "http://10.0.0.155:56871/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-7b9d5b62086a5246e75eefbdedc13f9e",
+      "host": "10.0.0.155:56871",
+      "credentials": [
+        "33ed88ba377a689c11ec176d55e9bec2",
+        "c16747ac4af556cd98e607d4dcc10270"
+      ],
+      "start": "2013-09-02 02:02:58 +0000",
+      "uptime": "0d:2h:17m:40s"
+    },
+    "http://10.0.0.109:43937/varz": {
+      "type": "VBlobaaS-Provisioner",
+      "index": 0,
+      "uuid": "0-65d8bda1d87e2212b87cf30ba21f40d4",
+      "host": "10.0.0.109:43937",
+      "credentials": [
+        "05baadda615dadfa9eecc3b0a9da9d17",
+        "0ed9dfcc0cbf6d6121998985f75649cc"
+      ],
+      "start": "2013-08-19 14:31:22 +0000",
+      "uptime": "13d:15h:33m:49s"
+    },
+    "http://10.0.0.104:45553/varz": {
+      "type": "HealthManager",
+      "index": 0,
+      "uuid": "0-d55b1eb75fb6e0fa7d133d6b2bfe7e93",
+      "host": "10.0.0.104:45553",
+      "credentials": [
+        "3f788e4f693e5ec8f0f31d9d0fc724e0",
+        "eb544c3d39116be402be20854288a648"
+      ],
+      "start": "2013-09-02 01:11:40 +0000",
+      "uptime": "0d:4h:17m:8s"
+    },
+    "http://10.0.0.85:8080/varz": {
+      "type": "uaa",
+      "host": "10.0.0.85:8080",
+      "index": 0,
+      "uuid": "0-60ffdcec-a53a-4a82-a50d-2e7bd5ab290f",
+      "credentials": [
+        "23147-19258-26031-30226",
+        "15064-21821-15107-31228"
+      ]
+    },
+    "http://10.0.0.167:48446/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-2f7e46c052d53840134b19a88d9120ff",
+      "host": "10.0.0.167:48446",
+      "credentials": [
+        "2c977bd72b55f01b30a2133f96a194c7",
+        "e95155eb96103ae18042e4d8db85f6fe"
+      ],
+      "start": "2013-09-02 02:03:40 +0000",
+      "uptime": "0d:2h:16m:29s"
+    },
+    "http://10.0.0.185:42778/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-3150eb26ed3496f9a4b3574e8a958155",
+      "host": "10.0.0.185:42778",
+      "credentials": [
+        "9ed7aa3fc38e7231b3775c35df39d659",
+        "8bf55c471383720c109528f69902769a"
+      ],
+      "start": "2013-09-02 02:04:52 +0000",
+      "uptime": "0d:2h:14m:16s"
+    },
+    "http://10.0.0.33:59374/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-564fc6185a7627cec7c141829dac3e06",
+      "host": "10.0.0.33:59374",
+      "credentials": [
+        "9fa1aedf7afcce39e4f190d98535d166",
+        "357a34fdb8010fa8efc20ef871c04b36"
+      ],
+      "start": "2013-09-02 03:05:05 +0000",
+      "uptime": "0d:1h:13m:33s"
+    },
+    "http://10.0.0.81:8080/varz": {
+      "type": "login",
+      "host": "10.0.0.81:8080",
+      "index": 0,
+      "uuid": "0-3b4f4995-e349-46ef-a120-ecec03adcf08",
+      "credentials": [
+        "5867-17766-18941-1487",
+        "24509-8299-1964-17596"
+      ]
+    },
+    "http://10.0.0.178:39770/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-9d5705e0fc929e78e7cc87bb6d54a492",
+      "host": "10.0.0.178:39770",
+      "credentials": [
+        "080a65edcbcc3f7bfd737312ed30f62e",
+        "80317975df88b702c40cc8a2badb5208"
+      ],
+      "start": "2013-09-02 02:03:53 +0000",
+      "uptime": "0d:2h:16m:15s"
+    },
+    "http://10.0.0.166:34536/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-681d02a854c5b1cc8361f72806c1191f",
+      "host": "10.0.0.166:34536",
+      "credentials": [
+        "721ab7752fdfb83b859baa32abdd448c",
+        "45bd4360142790eafd8e65059671822e"
+      ],
+      "start": "2013-09-02 02:04:09 +0000",
+      "uptime": "0d:2h:15m:28s"
+    },
+    "http://10.0.0.135:8080/varz": {
+      "type": "uaa",
+      "host": "10.0.0.135:8080",
+      "index": 0,
+      "uuid": "0-40485782-cbaf-436d-80a7-a6dfa7940ee6",
+      "credentials": [
+        "27011-17079-1960-10579",
+        "8247-10179-935-27902"
+      ]
+    },
+    "http://10.0.0.133:41746/varz": {
+      "type": "CloudController",
+      "index": 0,
+      "uuid": "0-c7ab1ec982f8ac13d441a698fa720486",
+      "host": "10.0.0.133:41746",
+      "credentials": [
+        "db1f2bef5cb67331e2cdc2d3a9d7f313",
+        "c84218b9987c1f7f77c214229361a1d7"
+      ],
+      "start": "2013-09-01 09:11:08 +0000",
+      "uptime": "0d:20h:54m:3s"
+    },
+    "http://10.0.0.33:50855/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-f91757a583a61c86663179632aee6222",
+      "host": "10.0.0.33:50855",
+      "credentials": [
+        "67fe6cd0c57cb704e8d66a77ce0d377c",
+        "b226336f93c10d6acecb96f797a06194"
+      ],
+      "start": "2013-09-02 04:19:06 +0000",
+      "uptime": "0d:0h:29m:37s"
+    },
+    "http://10.0.0.185:36334/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-ebc32a82ada005b8b3f074557477d85d",
+      "host": "10.0.0.185:36334",
+      "credentials": [
+        "77edd3038c73d8e2a2a2343d4f7b4a41",
+        "93f813f900cb425804c781a32021c33d"
+      ],
+      "start": "2013-09-02 04:19:31 +0000",
+      "uptime": "0d:1h:45m:40s"
+    },
+    "http://10.0.0.119:33882/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-f5dce6a40837103fb6547ccbba5b0585",
+      "host": "10.0.0.119:33882",
+      "credentials": [
+        "5887aa0833ae187e142906560245152c",
+        "13926925d58f77b2d4dc72b5a136588a"
+      ],
+      "start": "2013-09-02 04:19:54 +0000",
+      "uptime": "0d:1h:45m:13s"
+    },
+    "http://10.0.0.166:45322/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-35318807f671c96eba69dda63a8c59ce",
+      "host": "10.0.0.166:45322",
+      "credentials": [
+        "1fc712da47422ae3dfe5bf17b40ba3ee",
+        "6df38934ff5eabf6e2b9a1238533d4ef"
+      ],
+      "start": "2013-09-02 04:20:05 +0000",
+      "uptime": "0d:1h:45m:5s"
+    },
+    "http://10.0.0.167:57121/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-9f8bdf920a8a8d76f483e07912be86d9",
+      "host": "10.0.0.167:57121",
+      "credentials": [
+        "b15131a962d7df931a376153d4789551",
+        "383edb7aa0c3a0722ce8a61ad19bb3b1"
+      ],
+      "start": "2013-09-02 04:20:26 +0000",
+      "uptime": "0d:1h:44m:45s"
+    },
+    "http://10.0.0.178:46512/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-9b6ec5aa18dcc9f2b4986b983ed1fd03",
+      "host": "10.0.0.178:46512",
+      "credentials": [
+        "e3d0471f2b0560016f343ec98d691369",
+        "1bb9e2d3479fdb73d6d71f7ac2d00f83"
+      ],
+      "start": "2013-09-02 04:20:15 +0000",
+      "uptime": "0d:1h:44m:56s"
+    },
+    "http://10.0.0.107:35402/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-14e60b21e21a1ef909a7e061148c8d1c",
+      "host": "10.0.0.107:35402",
+      "credentials": [
+        "fc3e1dc5ad9c1dbae6aedc74abaf9ee7",
+        "01dec3bb6f7a02632e3587a0390bc07b"
+      ],
+      "start": "2013-09-02 04:21:02 +0000",
+      "uptime": "0d:1h:44m:9s"
+    },
+    "http://10.0.0.155:39478/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-425b8bff87dfc65a97e864669dc35340",
+      "host": "10.0.0.155:39478",
+      "credentials": [
+        "86e6f6eef0a5723e3c2b71fdb9fee012",
+        "fc7a387f5be9d07017b3de9a7e31c807"
+      ],
+      "start": "2013-09-02 04:20:53 +0000",
+      "uptime": "0d:1h:44m:18s"
+    },
+    "http://10.0.0.154:40726/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-5b038ba09b688113734d000bdda8bfa1",
+      "host": "10.0.0.154:40726",
+      "credentials": [
+        "398fbc72d2f570fb047caf16d9a7c0c9",
+        "9f2d750d004e23cac0b17ee11b642c46"
+      ],
+      "start": "2013-09-02 04:20:39 +0000",
+      "uptime": "0d:1h:44m:27s"
+    },
+    "http://10.0.0.33:35454/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-1321d1147785b569ecbcbdf5196653ab",
+      "host": "10.0.0.33:35454",
+      "credentials": [
+        "55dd643ffbec0eceb97be5e3e524d6de",
+        "0c868d8e4cece81807aefa401ef302dd"
+      ],
+      "start": "2013-09-02 04:54:55 +0000",
+      "uptime": "0d:0h:17m:21s"
+    },
+    "http://10.0.0.33:40690/varz": {
+      "type": "DEA",
+      "index": 0,
+      "uuid": "0-0940c1c1a4329f2b3f72e66fd7c0c0c7",
+      "host": "10.0.0.33:40690",
+      "credentials": [
+        "b168d824326049dd399a81fa9cce8eda",
+        "d11ee48ab74c92863c845824f38ea1bd"
+      ],
+      "start": "2013-09-02 05:51:35 +0000",
+      "uptime": "0d:0h:13m:36s"
+    }
+  },
+  "notified": {
+    "http://10.0.0.33:59374/varz": {
+      "type": "DEA",
+      "uri": "http://10.0.0.33:59374/varz",
+      "count": 210
+    },
+    "http://10.0.0.185:42778/varz": {
+      "type": "DEA",
+      "uri": "http://10.0.0.185:42778/varz",
+      "count": 209
+    },
+    "http://10.0.0.119:34803/varz": {
+      "type": "DEA",
+      "uri": "http://10.0.0.119:34803/varz",
+      "count": 208
+    },
+    "http://10.0.0.166:34536/varz": {
+      "type": "DEA",
+      "uri": "http://10.0.0.166:34536/varz",
+      "count": 208
+    },
+    "http://10.0.0.167:48446/varz": {
+      "type": "DEA",
+      "uri": "http://10.0.0.167:48446/varz",
+      "count": 207
+    },
+    "http://10.0.0.178:39770/varz": {
+      "type": "DEA",
+      "uri": "http://10.0.0.178:39770/varz",
+      "count": 207
+    },
+    "http://10.0.0.107:39394/varz": {
+      "type": "DEA",
+      "uri": "http://10.0.0.107:39394/varz",
+      "count": 206
+    },
+    "http://10.0.0.154:43015/varz": {
+      "type": "DEA",
+      "uri": "http://10.0.0.154:43015/varz",
+      "count": 206
+    },
+    "http://10.0.0.155:56871/varz": {
+      "type": "DEA",
+      "uri": "http://10.0.0.155:56871/varz",
+      "count": 206
+    },
+    "http://10.0.0.33:50855/varz": {
+      "type": "DEA",
+      "uri": "http://10.0.0.33:50855/varz",
+      "count": 150
+    },
+    "http://10.0.0.33:35454/varz": {
+      "type": "DEA",
+      "uri": "http://10.0.0.33:35454/varz",
+      "count": 103
+    },
+    "http://10.0.0.104:45553/varz": {
+      "type": "HealthManager",
+      "uri": "http://10.0.0.104:45553/varz",
+      "count": 70
+    }
+  },
+  "connected": true
+}
